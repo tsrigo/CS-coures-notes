@@ -1,0 +1,156 @@
+{
+  "workspaces": {
+    "demo": {
+      "main": {
+        "id": "50ec63f00f59924f",
+        "type": "split",
+        "children": [
+          {
+            "id": "400e2102015213a6",
+            "type": "split",
+            "children": [
+              {
+                "id": "3a4aa6af13fb9b88",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "网站/资源/学术资源.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ef34f0d2eba0be25",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "网站/资源/学术资源.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9acbf89477bf23c0",
+        "type": "split",
+        "children": [
+          {
+            "id": "4406fc9061039dd7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "875ed97dff963cb6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "17bd25279aa3c0c4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4076ffa2c3621cfb",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "dd7582834116659c",
+        "type": "split",
+        "children": [
+          {
+            "id": "b7747f95b79f2666",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "edb3098233c480e1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "网站/资源/学术资源.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "f9aaac81b9b406b4",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "网站/资源/学术资源.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "244f851fcecfe7c5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "c63075d56d46a8d7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "网站/资源/学术资源.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "ef34f0d2eba0be25"
+    }
+  },
+  "active": "demo"
+}
