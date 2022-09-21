@@ -275,7 +275,16 @@ str比较简单就略过了，主要是树
 ![image-20220907095005091](https://s2.loli.net/2022/09/07/KAkvwUQuqyC6seW.png)
 
 - 每一行有四个单元，每个单元的大小是四个字节（4 bytes），每对十六进制数的大小是一个字节（1 byte = 8 bits）
-- 按行看，从左到右单元的地址是增大的；按单元看，从左到右每一位的地址是减小的（little-endian）
+- 按行看，从左到右单元的地址是增大的；按单元看，从左到右每一对十六进制数，也就是每个字节的地址是减小的（这里体现了little-endian）
+| Address        | Data Byte | Binary    |
+| -------------- | --------- | --------- |
+| 0x7fffffffe350 | 0xef      | 1110 1111 |
+| 0x7fffffffe351 | 0xbe      | 1011 1110 |
+| 0x7fffffffe352 | 0xad      | 1010 1101 |
+| 0x7fffffffe353 | 0xde      | 1101 1110 |
+| 0x7fffffffe354 | 0xac      | 1010  1100    | 
+| ...            | ...       |     ...      |
+tips for Address: Memory is byte-addressable. 
 - 两行的地址相差"10"，这里的"10"是16进制的，相当于十进制的"16"，与第一点是吻合的
 
 ### 接下来是地址
