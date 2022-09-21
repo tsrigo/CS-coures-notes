@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "02 CS61 C/HW/hw 2 note.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "02 CS61 C/HW/hw 2 note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "02 CS61 C/HW/hw 2 note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "02 CS61 C/HW/hw 2 note.md"
               }
             }
           },
@@ -146,11 +146,11 @@
   },
   "active": "43c8a4e11d52311d",
   "lastOpenFiles": [
+    "02 CS61 C/Proj/Project 1 snek.md",
     "00 inbox/Home.md",
     "conflict-files-obsidian-git.md",
     "00 inbox/hhh.md",
     "02 CS61 C/笔记/lec4，5 note.md",
-    "02 CS61 C/Proj/Project 1 snek.md",
     "00 template/YAML.md",
     "02 CS61 C/HW/hw 2 note.md",
     "02 CS61 C/Lab/lab 2 note.md",
