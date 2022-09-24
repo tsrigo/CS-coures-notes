@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "lab 2 note",
+      "path": "02 CS61 C/Lab/lab 2 note.md"
+    },
+    {
+      "basename": "lab 9 note",
+      "path": "03 CS61 B/Lab/lab 9 note.md"
+    },
+    {
       "basename": "Home",
       "path": "00 inbox/Home.md"
+    },
+    {
+      "basename": "日记模板",
+      "path": "00 template/日记模板.md"
+    },
+    {
+      "basename": "常用以及自定义快捷键",
+      "path": "00 inbox/常用以及自定义快捷键.md"
+    },
+    {
+      "basename": "Proj2-PartA-note",
+      "path": "02 CS61 C/Proj/Proj2-PartA-note.md"
     },
     {
       "basename": "hw 2 note",
@@ -25,10 +45,6 @@
       "path": "00 template/YAML.md"
     },
     {
-      "basename": "lab 2 note",
-      "path": "02 CS61 C/Lab/lab 2 note.md"
-    },
-    {
       "basename": "The Priority Queue Interface（heap)",
       "path": "03 CS61 B/笔记/The Priority Queue Interface（heap).md"
     },
@@ -45,20 +61,8 @@
       "path": "02 CS61 C/Disc/Disc2 summary.md"
     },
     {
-      "basename": "lab 9 note",
-      "path": "03 CS61 B/Lab/lab 9 note.md"
-    },
-    {
       "basename": "mindmap",
       "path": "00 template/mindmap.md"
-    },
-    {
-      "basename": "常用以及自定义快捷键",
-      "path": "00 inbox/常用以及自定义快捷键.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "00 template/日记模板.md"
     },
     {
       "basename": "试一下bookxnote导入ob",

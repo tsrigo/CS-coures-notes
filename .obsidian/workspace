@@ -7,12 +7,8 @@
         "id": "43c8a4e11d52311d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "02 CS61 C/HW/hw 2 note.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 CS61 C/HW/hw 2 note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 CS61 C/HW/hw 2 note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 CS61 C/HW/hw 2 note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,15 +138,15 @@
   },
   "active": "43c8a4e11d52311d",
   "lastOpenFiles": [
-    "02 CS61 C/Proj/Project 1 snek.md",
+    "02 CS61 C/Lab/lab 2 note.md",
+    "03 CS61 B/Lab/lab 9 note.md",
     "00 inbox/Home.md",
+    "00 template/日记模板.md",
+    "00 inbox/常用以及自定义快捷键.md",
+    "02 CS61 C/Proj/Proj2-PartA-note.md",
+    "02 CS61 C/Proj/Project 1 snek.md",
     "conflict-files-obsidian-git.md",
     "00 inbox/hhh.md",
-    "02 CS61 C/笔记/lec4，5 note.md",
-    "00 template/YAML.md",
-    "02 CS61 C/HW/hw 2 note.md",
-    "02 CS61 C/Lab/lab 2 note.md",
-    "02 CS61 C/Lab/lab 1 note.md",
-    "02 CS61 C/Disc/Disc2 summary.md"
+    "02 CS61 C/笔记/lec4，5 note.md"
   ]
 }
