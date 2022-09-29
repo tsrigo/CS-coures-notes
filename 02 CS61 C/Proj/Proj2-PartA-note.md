@@ -111,6 +111,16 @@ error:
 
 Randomizing non-preserved registers、Randomizing preserved registers
 
+## Task 3: Argmax
+这个task开始过了test，后来写classify时才发现有问题：
+
+### 问题
+
+![image-20220929155440794](https://s2.loli.net/2022/09/29/7ArH58EcfFL2Zxe.png)
+
+35行处想用a0来存储答案，但很明显31行处a1还是需要用到的，因此需要换个地方更新答案。
+
+
 ## Task 5: Matrix Multiplication
 
 这个函数比较复杂（汇编角度）
